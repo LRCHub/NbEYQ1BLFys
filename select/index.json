@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "大人になれない",
+  "base_artist": "whaledontsleep",
+  "createdAt": "2025-12-18T23:27:03.095389Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大人になれない",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_01_大人になれない_くじら.txt"
+    }
+  ]
+}
